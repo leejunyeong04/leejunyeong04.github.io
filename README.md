@@ -16,9 +16,10 @@
 [**homework3-4**](https://leejunyeong04.github.io/20250409_122933.jpg)
 
 [**homework3-5**](https://leejunyeong04.github.io/20250409_113952.jpg)
-Ljy20230628_Mid1.java
 
 
 
 
 [**고급프로그래밍**](https://leejunyeong04.github.io/Ljy20230628_Mid1.java)
+
+[**고급프로그래밍2**](https://leejunyeong04.github.io/Ljy20230628_Mid2.java)
