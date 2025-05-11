@@ -24,4 +24,4 @@
 
 [**고급프로그래밍2**](https://leejunyeong04.github.io/Ljy20230628_Mid2.java)
 
-[**고급프로그래밍2켑처**](https://leejunyeong04.github.io/Ljy20230628_캡처2.jpg)
+
