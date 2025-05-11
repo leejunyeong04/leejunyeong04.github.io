@@ -19,7 +19,7 @@
 
 
 
-
 [**고급프로그래밍**](https://leejunyeong04.github.io/Ljy20230628_Mid1.java)
+[**고급프로그래밍1-1**](https://leejunyeong04.github.io/Ljy20230628_캡처1.jpg)
 
 [**고급프로그래밍2**](https://leejunyeong04.github.io/Ljy20230628_Mid2.java)
