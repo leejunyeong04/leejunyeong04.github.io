@@ -32,7 +32,6 @@
 
 
 
-[**Ljy20230628_Mid1.java**](https://leejunyeong04.github.io/Ljy20230628_Mid1.java)
 
-[**Ljy20230628_Mid2.java**](https://leejunyeong04.github.io/Ljy20230628_Mid2.java)
+
 
